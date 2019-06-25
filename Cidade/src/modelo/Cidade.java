@@ -32,7 +32,7 @@ public class Cidade {
 
     @Override
     public String toString() {
-        return "Cidade{" + "nome=" + nome + '}';
+        return nome;
     }
     
     
